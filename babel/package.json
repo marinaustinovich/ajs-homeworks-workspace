@@ -12,12 +12,11 @@
     "@babel/preset-env": "^7.20.2"
   },
   "scripts": {
-    "build": "babel src -d dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel src -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marinaustinovich/ajs-homeworks-workspace_.git"
+    "url": "git+https://github.com/marinaustinovich/ajs-homeworks-workspace.git"
   },
   "keywords": [
     "game"
@@ -25,7 +24,7 @@
   "author": "Marina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marinaustinovich/ajs-homeworks-workspace_/issues"
+    "url": "https://github.com/marinaustinovich/ajs-homeworks-workspace/issues"
   },
-  "homepage": "https://github.com/marinaustinovich/ajs-homeworks-workspace_#readme"
+  "homepage": "https://github.com/marinaustinovich/ajs-homeworks-workspace#readme"
 }

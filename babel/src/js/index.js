@@ -1,4 +1,4 @@
-console.log('babel');
+console.log('task 2 - babel');
 
 const characters = [
     {name: 'мечник', health: 10},

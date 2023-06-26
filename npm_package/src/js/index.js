@@ -1,1 +1,1 @@
-console.log('npm package');
+console.log('NPM package');

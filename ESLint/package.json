@@ -5,12 +5,11 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "lint": "eslint .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint ."
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marinaustinovich/ajs-homeworks-workspace_.git"
+    "url": "git+https://github.com/marinaustinovich/ajs-homeworks-workspace.git"
   },
   "keywords": [
     "game"
@@ -18,9 +17,9 @@
   "author": "Marina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marinaustinovich/ajs-homeworks-workspace_/issues"
+    "url": "https://github.com/marinaustinovich/ajs-homeworks-workspace/issues"
   },
-  "homepage": "https://github.com/marinaustinovich/ajs-homeworks-workspace_#readme",
+  "homepage": "https://github.com/marinaustinovich/ajs-homeworks-workspace#readme",
   "devDependencies": {
     "eslint": "^8.34.0",
     "eslint-config-airbnb-base": "^15.0.0",
